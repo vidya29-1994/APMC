@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APMCWaterBill", "APMCWaterBill\APMCWaterBill.csproj", "{DCADDB55-C37D-4861-8BE4-A7FFB6D06BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCADDB55-C37D-4861-8BE4-A7FFB6D06BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCADDB55-C37D-4861-8BE4-A7FFB6D06BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCADDB55-C37D-4861-8BE4-A7FFB6D06BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCADDB55-C37D-4861-8BE4-A7FFB6D06BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B0456C8-FE03-4A70-B24C-58597AB8328B}
+	EndGlobalSection
+EndGlobal
